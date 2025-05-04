@@ -116,7 +116,7 @@
       }
     }
   `,document.head.appendChild(v),r.innerHTML=`
-    <div class="absolute inset-0 bg-cover bg-center z-0" style="background-image: url('../../images/{hero,products,services,clients}/Landingpage bg.jpg'); background-size: 110%;">
+    <div class="absolute inset-0 bg-cover bg-center z-0" style="background-image: url('images/{hero,products,services,clients}/Landingpage bg.jpg'); background-size: 110%;">
     </div>
     
     <div class="container mx-auto pl-0 z-10 mt-24">
