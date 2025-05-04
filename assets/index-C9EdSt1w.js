@@ -3,7 +3,7 @@
       <div class="container mx-auto flex justify-between items-center">
         <div class="flex items-center transition-all duration-300">
           <img 
-            src="images/{hero,products,services,clients}/aamco.PNG." 
+            src="images/{hero,products,services,clients}/logo.png" 
             alt="AAMCO Logo" 
             class="nav-logo transition-all duration-300 -mt-1"
             style="height: 60px; filter: brightness(0) saturate(100%) invert(23%) sepia(90%) saturate(2299%) hue-rotate(201deg) brightness(95%) contrast(106%);"
