@@ -265,15 +265,15 @@
                   </span>
                 </div>
                 <div class="product-items hidden transition-all duration-300 ease-in-out opacity-0 max-h-0 overflow-hidden" id="upvc-products" style="margin-left: 1.5rem;">
-                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-belle-end">Belle end</div>
+                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-belle-end">Belle End</div>
                   <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-coupler">Coupler</div>
-                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-bend-45">fabricated bend 45-degree</div>
-                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-bend-90">fabricated bend 90-degree</div>
-                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-l-bend-45">L bend 45-degree</div>
-                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-l-bend-90">L bend 90-degree</div>
-                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-pipes">pipes</div>
-                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-puddle-flange">puddle flange</div>
-                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-wye-branch">Wye branch</div>
+                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-bend-45">Fabricated Bend 45-degree</div>
+                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-bend-90">Fabricated Bend 90-degree</div>
+                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-l-bend-45">L Bend 45-degree</div>
+                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-l-bend-90">L Bend 90-degree</div>
+                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-pipes">Pipes</div>
+                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-puddle-flange">Puddle Flange</div>
+                  <div class="product-item py-2 px-4 cursor-pointer hover:bg-blue-100 rounded transition-colors" data-product="upvc-wye-branch">WYE Branch</div>
                 </div>
               </div>
             </div>
